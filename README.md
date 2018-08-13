@@ -1,2 +1,1 @@
-# claytonandersonku.github.io
-Resume Website
+A Resume Website
